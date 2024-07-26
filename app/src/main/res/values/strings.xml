@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Preda Papel Tesoura</string>
+    <string name="app_choice">Escolha do App</string>
+    <string name="choose_an_option">Escolha uma opção abaixo</string>
+    <string name="result">Resultado</string>
+    <string name= "you">Você</string>
+    <string name="computer">Computador</string>
+    <string name="scoreboard">0</string>
+    <string name="reset">Reiniciar</string>
+</resources>
