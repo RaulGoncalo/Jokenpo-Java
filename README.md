@@ -11,5 +11,5 @@ Este é um aplicativo Android simples de "Pedra, Papel, Tesoura". Os jogadores e
 
 ## Capturas de Tela
 
-![App Demo]([assets/seu_gif.gif](https://github.com/RaulGoncalo/Jokenpo-Java/blob/main/Screen_Recording_20240726_094412_Preda%20Papel%20Tesoura.gif))
+![App Demo](Screen_Recording_20240726_094412_Preda Papel Tesoura.gif)
 
